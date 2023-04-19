@@ -23,8 +23,8 @@
 <br><br>
 <div align="center">
  
- <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Amin-Naimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=Amin-Naimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amin-Naimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Amin-Naimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Amin-Naimi&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 <br><br>
