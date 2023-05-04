@@ -27,7 +27,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Amin-Naimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Amin-Naimi&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
-<br><br>
+<br><br><br>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Amin-Naimi&badges=3">
+<br>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amin-Naimi&theme=react-dark"/>
 
 
