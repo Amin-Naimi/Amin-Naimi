@@ -28,9 +28,6 @@
   <img src="https://streak-stats.demolab.com?user=Amin-Naimi&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 <br><br><br>
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Amin-Naimi&badges=3">
-<br>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amin-Naimi&theme=react-dark"/>
 
 
 
