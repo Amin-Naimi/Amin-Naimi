@@ -1,15 +1,13 @@
-<br><br>
-<div>
-<h1 h1 style="display: inline-block;"> Hi there 
+<br>
+<h1 h1 > Hi there 
  <a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%B9%D9%84%D9%8A%D9%83%D9%85" >
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
  </a> I'm Mohamed from Tunisia 
- <a href="https://fr.wikipedia.org/wiki/Tunisie#:~:text=La%20Tunisie%20(en%20arabe%20%3A%20%D8%AA%D9%88%D9%86%D8%B3,commune%20et%20au%20sud%2Dest"><img src="img/1f1f9-1f1f3.png"  height="90" width="90" alt="" style="vertical-align: middle;"">
+ <a href="https://fr.wikipedia.org/wiki/Tunisie#:~:text=La%20Tunisie%20(en%20arabe%20%3A%20%D8%AA%D9%88%D9%86%D8%B3,commune%20et%20au%20sud%2Dest"><img src="img/1f1f9-1f1f3.png"  height="90" width="90" alt="" style="vertical-align: middle;">
 </a><br></h1>
- </div>
 <h2> A Student && Developer !!</h2>
 
 - 🌱 I’m currently learning everything 😁
@@ -27,11 +25,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Amin-Naimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Amin-Naimi&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
-<br><br><br>
-
-
-
-
-
-<br><br><br>
-###
