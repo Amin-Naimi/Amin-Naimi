@@ -26,7 +26,7 @@
 </div>
 
 
-<h2> A Student && Developer !!</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&pause=1000&color=2BBA49&background=8DE7FF00&random=false&width=422&lines=A+Student+%26%26+Developer+!!" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning everything 😁
  
