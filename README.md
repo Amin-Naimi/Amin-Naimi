@@ -6,25 +6,25 @@
   align-items: center;
   justify-content: center;
 ">
-  <span style="
-    font-size: 30px;
-    margin-right: 20px; /* Ajustez la marge selon vos besoins */
-  ">
+  <h1 style="margin-right: 20px;">
     Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif"
       height="45" width="45" /> I'm Mohamed from Tunisia
-  </span>
+  </h1>
   <img style="
     width: 90px;
     height: 90px;
     object-fit: cover;
+    align-self: baseline; /* Align image with the baseline of the text */
   " alt="image" src="./img/icons8-palestinian-territories-96.png" />
   <img style="
     width: 90px;
     height: 90px;
     object-fit: cover;
-    margin-left: 20px; /* Ajustez la marge selon vos besoins */
+    margin-left: 20px; /* Adjust the margin as needed */
+    align-self: baseline; /* Align image with the baseline of the text */
   " alt="image" src="./img/icons8-tunisia-circular-96.png" />
 </div>
+
 
 <h2> A Student && Developer !!</h2>
 
