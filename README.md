@@ -25,3 +25,4 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Amin-Naimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Amin-Naimi&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
+<a href="https://info.flagcounter.com/1ZT9"><img src="https://s01.flagcounter.com/countxl/1ZT9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
