@@ -17,13 +17,13 @@
     width: 90px;
     height: 90px;
     object-fit: cover;
-  " alt="image" src="./icons8-palestinian-territories-96.png" />
+  " alt="image" src="./img/icons8-palestinian-territories-96.png" />
   <img style="
     width: 90px;
     height: 90px;
     object-fit: cover;
     margin-left: 20px; /* Ajustez la marge selon vos besoins */
-  " alt="image" src="./icons8-tunisia-circular-96.png" />
+  " alt="image" src="./img/icons8-tunisia-circular-96.png" />
 </div>
 
 <h2> A Student && Developer !!</h2>
