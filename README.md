@@ -29,6 +29,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&pause=1000&color=2BBA49&background=8DE7FF00&random=false&width=422&lines=A+Student+%26%26+Developer+!!" alt="Typing SVG" /></a>
 
 - 🌱 I started taking an interest in cybersecurity, specifically penetration testing
+- 🌱 Something is cooking 🦅👌😉
 - 📫 How to reach me **mohamedaminnaimi937@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/profile.php?id=100073712845454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمد أمين نعيمي" height="30" width="40" /></a>
